@@ -1,25 +1,23 @@
 {
-    "id": "lunarnetwork",
-    "name": "Lunar Network",
-    "description": "Home of Competitive Minecraft PvP",
+    "id": "LetalNT",
+    "name": "Letal Network",
+    "description": "¡El mejor servidor hispano!",
     "addresses": [
-        "lunar.gg",
-        "lunargg.dev",
-        "mcteams.com"
+        "letal.net",
+        "play.letal.net",
     ],
-    "primaryAddress": "lunar.gg",
+    "primaryAddress": "letal.net",
     "minecraftVersions": [
-        "1.7.*",
-        "1.8.*"
+        "1.21.*",
     ],
-    "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
-    "primaryLanguage": "en",
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryColor": "#FF1818",
+    "secondaryColor": "#FF4141",
+    "primaryLanguage": "es",
     "languages": [
-        "en"
+        "es"
     ],
-    "primaryRegion": "NA",
+    "primaryRegion": "SA",
     "regions": [
         "NA",
         "EU",
@@ -28,20 +26,20 @@
         "SA"
     ],
     "gameTypes": [
-        "PvP"
+        "Survival"
     ],
-    "website": "https://www.lunar.gg",
-    "store": "https://store.lunar.gg",
+    "website": "https://letal.net",
+    "store": "https://tienda.letal.net",
     "compliance": {
-        "privacyPolicy": "https://www.lunar.gg/privacy",
-        "termsOfService": "https://www.lunar.gg/terms",
-        "rules": "https://www.lunar.gg/rules"
+        "privacyPolicy": "https://www.letal.net/privacy",
+        "termsOfService": "https://www.letal.net/terms",
+        "rules": "https://discord.gg/LetalNT"
     },
     "presentationVideo": "7EV4cPuJvXE",
     "socials": {
-        "twitter": "LunarNetwork",
-        "telegram": "lunarnetwork",
-        "discord": "https://www.lunar.gg/discord"
+        "twitter": "LetalNT",
+        "telegram": "LetalNT",
+        "discord": "https://www.discord.gg/LetalNT"
     },
-    "crossplay": false
+    "crossplay": true
 }
